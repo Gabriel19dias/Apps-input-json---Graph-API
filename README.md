@@ -10,4 +10,4 @@ O projeto divide um DataFrame usando Python e envia os dados em formato JSON par
 
 Clique na imagem acima para assistir ao vídeo no YouTube.
 
-[Ver Projeto no GitHub](https://github.com/Gabriel19dias/Apps-input-json---Graph-API)
+
